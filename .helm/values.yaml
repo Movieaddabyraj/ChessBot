@@ -14,7 +14,7 @@ postgresql:
 app:
   envs:
     NODE_ENV: production
-    REACT_APP_BOT_URI: t.me/ChessContestBot/game
+    REACT_APP_BOT_URI: t.me/Chessgamefriendbot/MRRAJ
     WEBHOOK_DOMAIN: chessbot.kozlov.cloud
     DB_HOST: chessbot-postgresql
     DB_NAME: chessbot
